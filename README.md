@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shipra 👋
 
-<!--
-**shipra-devops/shipra-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring DevSecOps Engineer  
+☁️ Azure | Terraform | CI/CD  
+🔐 Interested in Cloud Security  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Terraform Azure Static Website Deployment
+- CI/CD Pipeline with Security Scanning (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Terraform, Azure
+- GitHub Actions
+- Basic Security (IAM, secrets management)
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/shipras/
