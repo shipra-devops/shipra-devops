@@ -1,30 +1,36 @@
-**🚀 About Me**
+<h1 align="left">👋 Hi there, I'm Shipra</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0078D4&width=600&lines=Cloud+%26+DevOps+Engineer;Azure+%7C+Terraform+%7C+Docker;Learning+Kubernetes+%26+CI%2FCD;Building+Cloud+Infrastructure" />
+<hr style="border:1px solid gray;">
 
-💻 Cloud & DevOps enthusiast passionate about building reliable, scalable, and automated infrastructure.
+## **🚀 About Me**
+💻 Passionate about Cloud Computing, Infrastructure Automation, and DevOps Engineering
 
-☁️ Working with Microsoft Azure, Terraform, Docker, Linux, and cloud-native technologies.
+☁️ Building hands-on projects with Microsoft Azure and Terraform
 
-⚙️ Building Infrastructure as Code (IaC), automating deployments, and implementing DevOps best practices.
+⚙️ Exploring Infrastructure as Code, CI/CD pipelines, and cloud-native technologies
 
-🔄 Exploring CI/CD, cloud networking, high availability architectures, and infrastructure automation.
+🐧 Strengthening Linux, networking, and system administration fundamentals
 
-🐧 Continuously strengthening Linux, networking, and system administration fundamentals.
+📚 Currently Learning
 
-📚 Currently Learning:
+- Kubernetes
+- GitHub Actions
+- Advanced Terraform
+- Azure Networking & Security
+- Monitoring & Observability
 
-Kubernetes
-GitHub Actions
-Advanced Terraform
-Monitoring & Observability
-Azure Architecture & Security
+🛠️ Current Focus
+- High Availability Architectures
+- Azure Load Balancing
+- Infrastructure as Code (Terraform)
+- Cloud Networking
+- Automation & DevOps Best Practices
 
-🛠️ Hands-on Projects:
+🎯 Goal
 
-Azure High Availability Infrastructure
-Load Balancing & Traffic Distribution
-Infrastructure Automation with Terraform
-Cloud Networking & Security
+To build secure, scalable, and resilient cloud infrastructure while growing into a highly skilled Cloud & DevOps Engineer.
 
-🎯 Goal: Build expertise as a Cloud & DevOps Engineer and contribute to designing secure, scalable, and resilient cloud platforms.
+⭐ Feel free to explore my repositories and follow my cloud learning journey.
+
 ## 📫 Connect with me
 LinkedIn: https://www.linkedin.com/in/shipras/
