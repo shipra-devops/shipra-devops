@@ -1,116 +1,201 @@
-<h1 align="center">Hi, I'm Shipra 👋</h1>
+# Hi, I'm Shipra 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&width=620&lines=Cloud+%26+DevOps+Engineer;Azure+%7C+Terraform+%7C+Linux;Building+Highly+Available+Infrastructure;Infrastructure+as+Code+%7C+CI%2FCD" alt="Typing animation" />
-</p>
+### DevSecOps Enthusiast | Azure | Terraform | CI/CD | Cloud Security
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/shipra-devops" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shipra-devops&style=for-the-badge&color=0078D4" alt="Profile views"/>
-</p>
+I'm an IT professional and career returner building practical skills in **Microsoft Azure, Cloud, DevOps and DevSecOps**.
+
+My approach is hands-on: I learn by building, automating and documenting real cloud infrastructure using **Terraform, GitHub Actions and Azure**.
 
 ---
 
-## About Me
+## ⭐ Main Portfolio Project
 
-A career returner transitioning into **Cloud & DevOps**, building real-world Azure projects from the ground up. I document every step of my learning journey.
+### ☁️ Azure Infrastructure Automation with Terraform & GitHub Actions
 
-- ☁️ Building production-ready projects on **Microsoft Azure**
-- ⚙️ Automating infrastructure with **Terraform**
-- 🐧 Strengthening **Linux, networking, and system administration** fundamentals
-- 🔐 Exploring **Azure security, NSGs, and cloud-native best practices**
-- 🌱 Currently learning **Kubernetes, GitHub Actions, and Advanced Terraform**
+**[View the project →](https://github.com/shipra-devops/azure-terraform-github-actions)**
 
----
+This is my **main Cloud & DevOps portfolio project**.
 
-## Tech Stack
+It demonstrates how Azure infrastructure can be managed through **Infrastructure as Code and CI/CD**, rather than manual cloud configuration.
 
-### Cloud & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+### 🔄 End-to-End Workflow
 
-### Networking & Security
-<p>
-  <img src="https://img.shields.io/badge/Azure_VNet-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="VNet"/>
-  <img src="https://img.shields.io/badge/NSG-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="NSG"/>
-  <img src="https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="SSH"/>
-</p>
-
-### Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Monitor"/>
-</p>
-
----
-
-## Featured Projects
-
-### ☁️ [Azure Highly Available Web Infrastructure (Terraform)](https://github.com/shipra-devops/azure-ha-web-infrastructure)
-> Production-ready HA infrastructure on Azure, fully automated with Terraform
-
-- Provisions **VNet, Subnets, NSGs, and multiple Linux VMs** for high availability
-- Optional **Azure Load Balancer** for traffic distribution across VMs
-- Built entirely with **Infrastructure as Code** — repeatable and version-controlled
-- Covers core **AZ-104** exam domains: networking, compute, and governance
-
-`Terraform` `Azure VNet` `NSG` `Linux VMs` `Load Balancer` `IaC`
-
-
-## Current Focus
-
-```
-🏗️  High Availability Architectures
-⚖️  Azure Load Balancing & Traffic Management
-📜  Infrastructure as Code with Terraform
-🔒  Cloud Security & Azure Networking
-🔄  CI/CD Pipelines with GitHub Actions
-📊  Monitoring & Observability
+```text
+Feature Branch
+      ↓
+Pull Request
+      ↓
+Terraform CI
+      ↓
+Code Review
+      ↓
+Merge to main
+      ↓
+Terraform CD
+      ↓
+GitHub OIDC
+      ↓
+Microsoft Entra ID
+      ↓
+Terraform Plan
+      ↓
+Terraform Apply
+      ↓
+Microsoft Azure
 ```
 
+### What I implemented
+
+* ☁️ Microsoft Azure infrastructure
+* 🏗️ Terraform Infrastructure as Code
+* 🔄 GitHub Actions CI/CD
+* 🌿 Feature branch → Pull Request → `main` workflow
+* 🔐 GitHub Actions authentication using **OIDC**
+* 🆔 Microsoft Entra ID
+* 🛡️ Azure RBAC
+* 📦 Remote Terraform state using Azure Blob Storage
+* ✅ Automated Terraform format, initialization, validation and planning
+* 🚀 Automated Terraform deployment through GitHub Actions
+* 🔒 Secure authentication without storing a long-lived Azure client secret
+
+**Technology:**
+`Azure` `Terraform` `GitHub Actions` `OIDC` `Microsoft Entra ID` `Azure RBAC` `Git`
+
 ---
 
-## My Learning Journey
+## 🛠️ Technology Stack
 
+### ☁️ Cloud & Infrastructure
+
+`Microsoft Azure` · `Resource Groups` · `Azure Storage` · `Azure Networking`
+
+### 🏗️ Infrastructure as Code
+
+`Terraform` · `HCL` · `Terraform State` · `AzureRM Provider`
+
+### 🔄 DevOps & CI/CD
+
+`Git` · `GitHub` · `GitHub Actions` · `YAML` · `Pull Requests`
+
+### 🔐 Cloud Security
+
+`Microsoft Entra ID` · `OIDC` · `Federated Credentials` · `Azure RBAC`
+
+### 📚 Currently Developing
+
+`Azure Administration` · `Advanced Terraform` · `DevSecOps` · `Linux` · `Networking` · `Docker` · `CI/CD`
+
+---
+
+## 🔐 DevSecOps Mindset
+
+I'm interested in building infrastructure where **automation and security are part of the development lifecycle**, rather than added at the end.
+
+My current engineering workflow is:
+
+```text
+Code
+  ↓
+Validate
+  ↓
+Review
+  ↓
+Plan
+  ↓
+Secure Authentication
+  ↓
+Deploy
+  ↓
+Manage
 ```
-  ├── Azure fundamentals (AZ-900 in progress)
-  ├── Linux & SSH administration
-  ├── Azure Portal: VMs, VNets, NSGs, Storage
-  ├── Terraform + Azure HA infrastructure project
-  ├── GitHub portfolio building
-  │
-  └── Next: AZ-104 │ Kubernetes │ GitHub Actions │ CI/CD
+
+I'm particularly focused on:
+
+* Infrastructure as Code
+* Secure CI/CD pipelines
+* Identity and access management
+* OIDC and secretless authentication
+* Azure RBAC
+* Cloud security
+* Infrastructure automation
+* Repeatable deployments
+* Infrastructure lifecycle management
+
+---
+
+## 🚀 Other Azure Project
+
+### Azure Highly Available Web Infrastructure
+
+A Terraform-based Azure infrastructure project demonstrating:
+
+* Azure Virtual Network
+* Subnets
+* Network Security Groups
+* Linux Virtual Machines
+* Load Balancing
+* Infrastructure as Code
+* Repeatable Azure deployments
+
+**Technology:**
+`Azure` `Terraform` `VNet` `NSG` `Linux` `VMs` `Load Balancer` `IaC`
+
+---
+
+## 📖 What I'm Building
+
+My GitHub portfolio is focused on developing practical Cloud and DevOps capabilities through projects.
+
+My learning path is centred around:
+
+```text
+Azure Fundamentals
+       ↓
+Azure Infrastructure
+       ↓
+Terraform / IaC
+       ↓
+Git & GitHub
+       ↓
+CI/CD
+       ↓
+OIDC & Cloud Security
+       ↓
+Azure Administration
+       ↓
+DevSecOps
 ```
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shipra-devops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shipra-devops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="Top languages" width="40%"/>
-</p>
+I document my projects and the engineering decisions behind them so that my repositories show **practical implementation, not just a list of technologies**.
 
 ---
 
-## Goal
+## 🎯 Career Focus
 
-> *"To build secure, scalable, and resilient cloud infrastructure — and grow into a highly skilled Cloud & DevOps Engineer."*
+I'm building toward opportunities in:
 
-⭐ Feel free to explore my repositories and follow my cloud learning journey. I document everything as I learn, so you can see real progress, not just finished projects.
+**Cloud Engineering · Azure · DevOps · DevSecOps · Cloud Infrastructure · Cloud Support**
+
+I'm particularly interested in roles where I can contribute to **cloud infrastructure, automation, CI/CD and secure Azure environments** while continuing to grow my hands-on engineering skills.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=0078D4&center=true&width=500&lines=Open+to+cloud+and+DevOps+opportunities;Let's+connect+on+LinkedIn!" alt="Footer typing"/>
-</p>
+## 📫 Connect With Me
+
+**LinkedIn:** [linkedin.com/in/shipras](https://www.linkedin.com/in/shipras)
+
+**GitHub:** [github.com/shipra-devops](https://github.com/shipra-devops)
+
+---
+
+## ⭐ Featured Project
+
+### Azure Infrastructure Automation
+
+**Terraform + GitHub Actions + OIDC + Microsoft Azure**
+
+**[Explore the project →](https://github.com/shipra-devops/azure-terraform-github-actions)**
+
+> **Design → Validate → Review → Deploy → Manage**
+
+I'm building my Cloud & DevOps career one practical project at a time.
